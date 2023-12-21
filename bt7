@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        u{
+        border-bottom : 2px dotted #000;
+        text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to The Little Taco Shop </h1>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">About LTS</a></li>
+        <li><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">Our Menu</a></li>
+        <li><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">Store Hours</a></li>
+        <li><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">Contact Us</a></li>
+         
+    </ul>
+    <img style="width: 300px;padding-left: 20px;" src="https://www.thespruceeats.com/thmb/ses2M4uDBQ-Sk3RUoHqj1a8aXuY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-tinga-tinga-de-pollo-4773239-Hero_01-1bd1d960c02a4fdb812323b8c60fd55b.jpg">
+    <div style="padding-left: 20px;">Taco and a drink</div>
+    <hr class="solid">
+    <h2>About <u>LTS</u></h2>
+    <div><u>LTS</u> was founded in 2022. Our shop was built from a <b>love o tacos &#127790&#127790&#127790</b> . We hope our shop adds a unique and interesting place to our little town.</div>
+    <h3>Taco Trivia</h3>
+    <div>&#8227 When did taco first appear in the United Stated?</div>
+    <hr class="solid">
+    <h2>Our Menu</h2>
+    
+    <table>
+        <tr>
+            <td style="text-align:center" colspan="3">Out taco</td>
+        </tr>
+        <tr>
+            <th>Tacos</th>
+            <th>Qty</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <th rowspan="3">Crunchy</th>
+            <td>1</td>
+            <td>$1.50</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>$2.50</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>$3.25</td>
+        </tr>
+        <tr>
+            <th rowspan="3">Soft</th>
+            <td>1</td>
+            <td>$2.00</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>$3.50</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>$4.50</td>
+        </tr>
+        <tr>
+            <td colspan="3">Chips and Salsa $2</td>
+        </tr>
+        
+    </table>
+    <div> <a href="#">Back To Top</a></div>
+    <hr class="solid">
+    <div>Copyright c The Little Taco Shop</div>
+</body>
+</html>
