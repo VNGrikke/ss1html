@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Table gallery</h2>
+    <table>
+        <tr>
+            <th>Image Column 1 </th>
+            <th>Image Column 2 </th>
+            <th>Image Column 3 </th>
+        </tr>
+        <tr>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+        </tr>
+        <tr>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+        </tr>
+        <tr>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+            <td><img src="https://mcdn.coolmate.me/image/May2022/rick-roll-la-gi-meme-rick-roll_470.jpg"></td>
+        </tr>
+    </table>
+</body>
+</html>
