@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+    table{
+        border: 1px solid black;
+        padding-left: 20px;
+      }
+    div{
+        text-align: left;
+    }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <th style="padding-left: 20px; padding-right: 200px;">
+            <p style="text-align: left;">
+            <img  src="https://devo.vn/wp-content/uploads/2023/01/meo-cam-sung.jpg" width="100px" >
+            <div>Name: Nguyen Van A</div>
+            <div>title: Font-end Developer</div>
+            <div>Phone Number: 01237118</div>
+            <div>address: 17 Duy Tan street</div>
+            <div>Website: <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">https://www.fsoft.com.vn</a></div>
+            </p>
+        </th>
+    </table>
+</body>
+</html>
